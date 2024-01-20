@@ -10,18 +10,18 @@ This project focuses on the analysis and exploration of COVID-19 data using SQL 
 
 ## INSIGHT
 
-The total covid-19 cases confirmed was 762,588,872 cases
-The total deaths recorded was 6,895,830
-The global percentage death was 0.90 percent
-The USA, China, India, France, Germany has the highest number of confirmed cases While
-The USA, Brazil, India, Russia, Mexico have recorded the highest deaths.
-Confirmed cases by Continent
-Asia: 295,621,074
-Europe: 247,953,301
-North America: 123,488,232
-South America: 68,271,382
-Oceania: 14,180,744
-Africa: 13,074,139
-Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
-Vaccinations started on the 3rd Dec 2020
+*The total covid-19 cases confirmed was 762,588,872 cases
+*The total deaths recorded was 6,895,830
+*The global percentage death was 0.90 percent
+*The USA, China, India, France, Germany has the highest number of confirmed cases While
+*The USA, Brazil, India, Russia, Mexico have recorded the highest deaths.
+*Confirmed cases by Continent
++Asia: 295,621,074
++Europe: 247,953,301
++North America: 123,488,232
++South America: 68,271,382
++Oceania: 14,180,744
++Africa: 13,074,139
+*Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
+*Vaccinations started on the 3rd Dec 2020
 
