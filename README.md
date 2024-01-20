@@ -26,4 +26,4 @@ This project focuses on analyzing and exploring COVID-19 data using SQL through 
 * Vaccinations started on the 3rd Dec 2020
 
 
-## Dashboard Report
+## DASHBOARD REPORT
