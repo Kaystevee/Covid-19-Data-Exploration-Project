@@ -27,3 +27,7 @@ This project focuses on analyzing and exploring COVID-19 data using SQL through 
 
 
 ## DASHBOARD REPORT
+
+## CONCLUSION
+
+This project provides insights into the global impact of COVID-19, emphasizing the significance of data organization and analysis. The findings underscore the importance of continued vigilance and global cooperation to combat the ongoing pandemic. The integration of SQL and Tableau facilitates a comprehensive understanding of the pandemic's dynamics, aiding in informed decision-making and strategic planning.
