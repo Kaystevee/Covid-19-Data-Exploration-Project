@@ -16,8 +16,8 @@ This project focuses on the analysis and exploration of COVID-19 data using SQL 
 * The USA, China, India, France, Germany has the highest number of confirmed cases While
 * The USA, Brazil, India, Russia, Mexico have recorded the highest deaths.
 * Confirmed cases by Continent
-+ Asia: 295,621,074
-+ Europe: 247,953,301
+++ Asia: 295,621,074
+** Europe: 247,953,301
 + North America: 123,488,232
 + South America: 68,271,382
 + Oceania: 14,180,744
