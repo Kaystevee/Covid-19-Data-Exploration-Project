@@ -25,3 +25,5 @@ This project focuses on analyzing and exploring COVID-19 data using SQL through 
 * Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
 * Vaccinations started on the 3rd Dec 2020
 
+
+## Dashboard Report
